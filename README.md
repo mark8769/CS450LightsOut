@@ -74,3 +74,5 @@ You can choose to play, or you can watch the AI play.
     with 3x3 board when running repeated games. So I think it has more to do with
     LispWorks Peronal or the recursive nature of Lisp and stack-space not being immediately available.
 
+
+!(Starting Lights out Example)[https://raw.githubusercontent.com/mark8769/CS450LightsOut/main/readmeImage/lightsout.png]
