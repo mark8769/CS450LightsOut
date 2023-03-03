@@ -75,4 +75,4 @@ You can choose to play, or you can watch the AI play.
     LispWorks Peronal or the recursive nature of Lisp and stack-space not being immediately available.
 
 
-!(Starting Lights out Example)[https://raw.githubusercontent.com/mark8769/CS450LightsOut/main/readmeImage/lightsout.png]
+![Starting Lights out Example](https://raw.githubusercontent.com/mark8769/CS450LightsOut/main/readmeImage/lightsout.png)
